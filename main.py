@@ -1,5 +1,5 @@
-os.system("git clone https://github.com/Mrunal1911/sessionx")
+import os
 
-os.system("cd  && python bot.py")
+os.system("git clone https://github.com/LEGENDXOP/sessionhack_bot")
 
-© 2021 GitHub, Inc.
+os.system("cd sessionhack_bot && python bot.py")
